@@ -63,7 +63,7 @@ input {
 
 #calculate-number {
     background-color: transparent;
-    color: var(--primary-green);
+    color: black;
     padding: 0.5rem 0.7rem;
     border-color:black;
     border-width: medium;
